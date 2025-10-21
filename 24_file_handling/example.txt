@@ -1,0 +1,4 @@
+This is sample to leran file 
+handling 
+in golang
+lets go
